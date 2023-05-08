@@ -1,6 +1,6 @@
 {
-  enableBlocker: true,
-  blockedWebsites: [
+  "enableBlocker": true,
+  "blockedWebsites": [
     "youtube.com",
     "discord.com",
     "chess.com"
