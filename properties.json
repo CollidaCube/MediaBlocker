@@ -1,5 +1,5 @@
 {
-  "enableBlocker": true,
+  "enableBlocker": false,
   "blockedWebsites": [
     "youtube.com",
     "discord.com",
